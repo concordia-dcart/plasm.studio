@@ -1251,6 +1251,7 @@ textarea {
         margin-left: 0;
         margin-right: 0;
         padding: 0;
+        margin-bottom: 40%;
     }
 }
 
@@ -1634,7 +1635,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 h1, .h1 {
-    margin-top: var(--vspace-2_5);
+    /* margin-top: var(--vspace-2_5); */
+    margin-top: var(--vspace-0_25);
     margin-bottom: var(--vspace-0_75);
 }
 
