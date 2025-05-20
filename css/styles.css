@@ -166,7 +166,7 @@
 
     /* text
      */
-    --color-text       : var(--color-gray-10);
+    --color-text       : var(--color-gray-6);
     --color-text-dark  : var(--color-white);
     --color-text-light : var(--color-gray-12);
     --color-placeholder: var(--color-gray-11);
